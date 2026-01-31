@@ -624,7 +624,7 @@ python run_demo.py AAPL --refresh
 
 ## License
 
-This project is developed as coursework for IFTE0001: AI Agents in Asset Management at UCL School of Management.
+This project is developed as coursework for IFTE0001: AI Agents in Asset Management at UCL IFT.
 
 ---
 
@@ -632,4 +632,4 @@ This project is developed as coursework for IFTE0001: AI Agents in Asset Managem
 
 - Alpha Vantage for financial data API
 - Anthropic for Claude LLM API
-- UCL School of Management for coursework framework
+- UCL IFT for coursework framework
